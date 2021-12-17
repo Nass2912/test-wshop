@@ -1,3 +1,7 @@
+.menu:hover .sub-menu {
+    display: flex;
+  }
+
 .sub-menu {
     display: none;
     position: absolute;
